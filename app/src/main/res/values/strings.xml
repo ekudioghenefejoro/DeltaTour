@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Delta Tour</string>
+    <string name="random_text_1">Mungo Park House is a national monument that happened to be the first headquarters of the Royal Niger Company and Nigeria’s first political headquarters in 1900. <a href="https://learntodroid.com">Read More</a>
+    </string>
+    <string name="random_text_2">Mungo Park House was erected by the Royal Niger Company (RNC) in 1886. <a href="https://learntodroid.com">Read More</a></string>
+    <string name="random_text_3"><a href="https://learntodroid.com">Places to Explore</a></string>
+    <string name="random_text_4"><a href="https://learntodroid.com">View All</a></string>
+
 </resources>
